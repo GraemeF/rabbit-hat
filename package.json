@@ -1,6 +1,6 @@
 {
   "name": "rabbit-hat",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Creates temporary vhosts in RabbitMQ, useful for integration testing",
   "main": "index.js",
   "repository": {
