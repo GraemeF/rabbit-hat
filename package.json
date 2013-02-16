@@ -1,0 +1,25 @@
+{
+  "name": "rabbit-hat",
+  "version": "0.0.0",
+  "description": "Creates temporary vhosts in RabbitMQ, useful for integration testing",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/GraemeF/rabbit-hat.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "amqp"
+  ],
+  "author": "Graeme Foster",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "093aec864deeb804c8014df2dadbf24ce7e46e19",
+  "dependencies": {
+    "async": "~0.2.5",
+    "underscore": "~1.4.4",
+    "node-uuid": "~1.4.0",
+    "request": "~2.12.0",
+    "oibackoff": "~0.2.0"
+  }
+}
